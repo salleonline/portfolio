@@ -22,8 +22,7 @@ const Cultures = () => {
             are allowed to have LinkedIn profiles.
           </GridListItem>
           <GridListItem title="Trust" invert>
-            We don’t care when our team works just as long as they are working
-            every waking second.
+            We trust our employees to do the right thing, which is why we don’t our employees and clients have good relationship.
           </GridListItem>
           <GridListItem title="Compassion" invert>
             You never know what someone is going through at home and we make
