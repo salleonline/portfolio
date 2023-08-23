@@ -2,7 +2,7 @@ import Link from "next/link";
 import clsx from "clsx";
 import {
   BsFacebook,
-  BsTwitter,
+  BsX,
   BsGithub,
   BsYoutube,
   BsLinkedin,
@@ -10,23 +10,13 @@ import {
 } from "react-icons/bs";
 
 export const SocialMediaProfiles = [
-  {
-    title: "Youtube",
-    href: "https://www.youtube.com/",
-    icon: BsYoutube,
-  },
   { title: "GitHub", href: "https://github.com/salleonline", icon: BsGithub },
-  {
-    title: "Facebook",
-    href: "https://www.facebook.com/",
-    icon: BsFacebook,
-  },
   {
     title: "Instagram",
     href: "https://www.instagram.com/salleweb/",
     icon: BsInstagram,
   },
-  { title: "Twitter", href: "https://twitter.com/SalleWeb", icon: BsTwitter },
+  { title: "Twitter", href: "https://twitter.com/SalleWeb", icon: BsX },
 ];
 
 const SocialMedia = ({ className, invert = false }) => {
