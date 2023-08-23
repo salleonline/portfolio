@@ -30,9 +30,9 @@ const AboutPage = () => {
       </PageIntro>
       <Container className="mt-16">
         <StatList>
-          <StatListItem value="35" label="Underpaid employees" />
-          <StatListItem value="52" label="Placated clients" />
-          <StatListItem value="$25M" label="Invoices billed" />
+          <StatListItem value="3" label="Underpaid employees" />
+          <StatListItem value="7" label="Placated clients" />
+          <StatListItem value="Gh₵20k" label="Invoices billed" />
         </StatList>
       </Container>
       <Cultures />
