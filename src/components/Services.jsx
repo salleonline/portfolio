@@ -39,12 +39,12 @@ const Services = () => {
             </ListItem>
             <ListItem title="Application development">
               We have a team of skilled developers who are experts in the latest
-              app frameworks, like Angular 1 and Google Web Toolkit.
+              app frameworks, like Nextjs13 and Google Web Toolkit.
             </ListItem>
             <ListItem title="E-commerce">
               We are at the forefront of modern e-commerce development. Which
               mainly means adding your logo to the Shopify store template we’ve
-              used for the past six years.
+              used for the past 3 years.
             </ListItem>
             <ListItem title="Custom content management">
               At SALLE we understand the importance of having a robust and
